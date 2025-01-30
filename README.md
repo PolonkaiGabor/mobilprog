@@ -2,4 +2,4 @@
 **Készítette:** Polonkai Gábor (CXG5RG)
 ## Jegyzőkönyv
 A jegyzőkönyv elérhető a következő linken: 
-[Link a jegyzőkönyvhöz](#)
+[Link a jegyzőkönyvhöz](docs/jegyzokonyv.pdf)
